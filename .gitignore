@@ -1,0 +1,5 @@
+# 系统/临时文件
+Thumbs.db
+Desktop.ini
+*.tmp
+*.DS_Store
